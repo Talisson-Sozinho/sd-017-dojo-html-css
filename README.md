@@ -2,14 +2,12 @@
     Desenvolvimento de um layout de um login
 
 ## Feito o clone do repositório
-
-    feito um clone do repositório Disponibilizado pela
-<a href="https://github.com/tryber/sd-017-dojo-html-css target="_blank"> Trybe </a>
+    feito um clone do repositório Disponibilizado pela (Trybe)[https://github.com/tryber/sd-017-dojo-html-css]
 
 ## 🎁 Objetivo do dojo
 📌 Esse dojo, tem como objetivo de criar um tela de login. Com o seguinte layout:
 
-<img src="#link aq" widt="750" />
+<img src="https://github.com/Talisson-Sozinho/sd-017-dojo-html-css/blob/main/img/background.png" widt="750" />
 
 ### 📋 Explicação do que foi feito
 Com o ```reset.css``` e ``` index.html ``` já existente para ajudar no desenvolvimento. Isso significa que não vai precisar criar novos arquivos.
