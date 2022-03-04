@@ -1,17 +1,17 @@
 ## Dojo de html e css
-Iremos desenvolver um layout de um login
+    Desenvolvimento de um layout de um login
 
-## Fazer o clone do repositório
-```git@github.com:tryber/sd-017-dojo-html-css.git```
+## Feito o clone do repositório
+    feito um clone do repositório Disponibilizado pela [Trybe](https://github.com/tryber/sd-017-dojo-html-css)
+
 
 ## 🎁 Objetivo do dojo
 📌 Esse dojo, tem como objetivo de criar um tela de login. Com o seguinte layout:
 
-<img src="https://github.com/tryber/sd-017-dojo-html-css/blob/main/img/layout-new.png" widt="750" />
+<img src="#link aq" widt="750" />
 
-### 📋 Explicação
-Já existe, o ```reset.css``` e ``` index.html ```
-Essa estrutura, já existe para ajudar no desenvolvimento. Isso seguinifica que não vai precisar criar novos arquivos.
+### 📋 Explicação do que foi feito
+Com o ```reset.css``` e ``` index.html ``` já existente para ajudar no desenvolvimento. Isso significa que não vai precisar criar novos arquivos.
 
 No arquivo ``` index.html ```, já está sendo importando os seguinte css
 ```     
@@ -20,7 +20,7 @@ No arquivo ``` index.html ```, já está sendo importando os seguinte css
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,500;1,400&display=swap" rel="stylesheet">
 ```
 
-Para fazer esse exercicio, você vai precisar usar um formulário:
+Para fazer esse exercício, foi recomendado usar um FOrmulário:
 ``` 
     <form>
     </form>
@@ -40,31 +40,16 @@ Para o texto aparecer no ``` <input> ```, iremos colocar o atributo ```placehold
     </form>
 ``` 
 
-Você deve ter percebido, que a tag ```<input>``` tem um atributo chamado ```type```. Esse atributo serve para indicar o tipo de dado que devemos digitar.
-
-#### Você pode acessar esses links, para mais informações
+#### Usei os seguintes sites para aprender mais sobre `form`
 
 📌  <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Forms/Your_first_form" target="_blank"> Meu primeiro formulário </a>
 
 📌  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input" target="_blank"> Atributos da tag input </a>
 
-## 🚀 Bora, vamos começar?
-🔩 Muito bom, vamos começar a desenvolver o nosso layout 😀
+#### Finalização
 
-## 🥇 Começando
-Vai precisar, adicionar no background essa imagem:<br />
-🔧 Essa imagem já existe, no caminho <strong>/img/background.png</strong>
-
-## 🖇️ Paleta de cores
-Cor de background e texto: <strong>#820AD1</strong>
-
-## 📦 Desenvolvimento
-O desenvolvimento do projeto, deve ocorrer no ``` index.html ``` e ``` style.css ```
-
-## 🐾 Finalização
-
-No final desse dojo, você com certeza vai estar bem melhor com html e css.
-E aprender, os seguintes temas 😀
+Com ajuda desse dojo, eu fixei melhor meus conhecimentos de html e css. E a prendi os seguintes
+temas:
 
 * Seguir um layout, que o designer desenvolveu
 * Semantica do html5
