@@ -2,8 +2,9 @@
     Desenvolvimento de um layout de um login
 
 ## Feito o clone do repositório
-    feito um clone do repositório Disponibilizado pela [Trybe](https://github.com/tryber/sd-017-dojo-html-css)
 
+    feito um clone do repositório Disponibilizado pela
+<a href="https://github.com/tryber/sd-017-dojo-html-css target="_blank"> Trybe </a>
 
 ## 🎁 Objetivo do dojo
 📌 Esse dojo, tem como objetivo de criar um tela de login. Com o seguinte layout:
